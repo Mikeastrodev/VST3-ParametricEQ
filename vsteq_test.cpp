@@ -1,3 +1,4 @@
+// This is still a work in progress.
 #include "public.sdk/source/vst/vstaudioeffect.h"
 #include "public.sdk/source/vst/vstparameters.h"
 #include "pluginterfaces/vst/vsttypes.h"
